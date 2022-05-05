@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.listelement {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  align-items: center;
+  width: 70%;
+}
